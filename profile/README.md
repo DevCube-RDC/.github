@@ -1,4 +1,4 @@
-![devcube logo](images/devcube.png)
+![devcube logo](https://github.com/DevCube-RDC/.github/blob/main/profile/images/devcube.png)
 # DevCube - RDC
 
 ## Présentation
