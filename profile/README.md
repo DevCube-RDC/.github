@@ -1,4 +1,4 @@
-![devcube logo](./images/devcube.png)
+![devcube logo](images/devcube.png)
 # DevCube - RDC
 
 ## Présentation
